@@ -4,7 +4,6 @@ test
 test
 assets
 build
-sdkconfig
 sdkconfig.old
 build
 dependencies.lock
